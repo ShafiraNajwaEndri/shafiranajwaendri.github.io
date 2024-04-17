@@ -20,7 +20,7 @@ AFTER
 ![Screenshot 2024-04-17 073402](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/83a0ed48-289a-4504-b6d1-15cbb031eddf)
 ![Screenshot 2024-04-17 073413](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/11aa8861-47c6-46ea-b471-9f4491e85bb8)
 ![Screenshot 2024-04-17 082749](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/87cfaf50-a01c-41ca-b56d-f536dc7775e5)
-![Screenshot 2024-04-17 082837](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/d072575d-082d-4eea-affd-730b764a86bd)
+![Screenshot 2024-04-17 191406](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/3d677a51-e73f-47d8-9b85-ae54a98f69e4)
 ![Screenshot 2024-04-17 082847](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/cbde033b-b5da-4a1d-ad40-1300a08a9158)
 ![Screenshot 2024-04-17 185247](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/b56cd92f-8e59-4402-a40b-fb5b45865466)
 ![Screenshot 2024-04-17 185258](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/c81c61e1-a934-450e-80b6-82608c44b5ec)
