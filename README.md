@@ -4,8 +4,8 @@ REFERENSI GITHUB
 (https://github.com/RafyMrX/TOKO-ONLINE-ROTI)
 
 Nama : Shafira Najwa Endri
-
 NIM : 12030122140306
+Kelas : D
 
 Bouquet Flowers Online Store
 
