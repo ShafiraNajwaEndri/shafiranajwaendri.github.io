@@ -15,3 +15,6 @@ AFTER
 ![Screenshot 2024-04-17 082926](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/278bcc5e-5be0-406f-ace5-40971a4429ab)
 ![Screenshot 2024-04-17 082944](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/4d583401-15fb-4cf7-bf6f-368907bb6937)
 
+ERD
+![Screenshot 2024-04-17 081738](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/5f5b86f7-ae91-4d91-92de-d2fadd2acbe1)
+
