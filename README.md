@@ -3,13 +3,20 @@
 REFERENSI GITHUB
 (https://github.com/RafyMrX/TOKO-ONLINE-ROTI)
 
+Nama : Shafira Najwa Endri
+
+NIM : 12030122140306
+
 Bouquet Flowers Online Store
+
+USERNAME : admin   PASSWORD : admin
+
 
 BEFORE
 ![Screenshot 2024-04-16 235312](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/79196117-365d-44ac-8cc4-a5c582b6a918)
 ![Screenshot 2024-04-17 001439](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/d2bb030d-480b-4de4-a765-638c77816101)
 
-AFTER
+AFTER 
 ![Screenshot 2024-04-17 073402](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/83a0ed48-289a-4504-b6d1-15cbb031eddf)
 ![Screenshot 2024-04-17 073413](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/11aa8861-47c6-46ea-b471-9f4491e85bb8)
 ![Screenshot 2024-04-17 082749](https://github.com/ShafiraNajwaEndri/shafiranajwaendri.github.io/assets/167266526/87cfaf50-a01c-41ca-b56d-f536dc7775e5)
